@@ -1,6 +1,6 @@
 # Telegram Username Checker
 
-![image]()
+![image](https://raw.githubusercontent.com/alexrony21/Telegram-Username-Checker/refs/heads/main/Telegram_Username_Checker.png)
 
 ## Features
 
